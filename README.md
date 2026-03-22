@@ -1,14 +1,25 @@
-# Customer Churn Analysis
-
+## 📊 Customer Churn Analysis
+---
+⭐ End-to-End Data Analysis Project
+Tools Used: Python | SQL | Power BI
+Focus: Business Insights & Decision Making
+---
 ## Overview
 
-This project focuses on analyzing customer churn using data analysis and visualization techniques.
-The goal is to identify patterns and key factors that influence customer churn so businesses can take actions to improve customer retention.
-
-The project combines **Python for data analysis**, **SQL for querying**, and **Power BI for dashboard visualization**.
+This project analyzes customer churn in a telecom dataset to identify key factors influencing customer attrition.
+The goal is to help businesses reduce churn and improve customer retention using data-driven insights.
 
 ---
+---
+ ### 🎯 Problem Statement
+---
+Customer churn is a major challenge for telecom companies.
+This project aims to:
 
+ - Identify customers likely to churn
+ - Understand factors driving churn
+ - Provide actionable strategies to improve retention
+---
 ## Dashboard Preview
 
 ![Dashboard](churn_dashboard.png)
@@ -45,10 +56,37 @@ Key columns include:
 * Customers with **month-to-month contracts have the highest churn rate**.
 * **Fiber optic internet users churn more frequently than DSL users**.
 * Customers using **electronic check payment method show higher churn**.
-* Customers with **tenure less than 1 year are more likely to churn**.
+* Customers with **tenure < 1 year are more likely to churn**.
 
 ---
+ ## 🚀 Actionable Insights
+ ---
+- High-risk customers contribute significantly to overall churn
+- Short-term contract users are more likely to leave
+- High monthly charges increase churn probability
+  ---
+  
+  
+  ### 💡 Business Recommendations
+  ---
+  
+- Offer discounts or incentives for long-term contracts
+- Target high-risk customers with retention campaigns
+- Improve service quality for fiber optic users
+- Provide better pricing strategies for high-charge customers
 
+  ---
+  
+ ### 🧠 Why This Project Matters
+
+This project demonstrates a real-world data analysis workflow:
+
+- Data cleaning
+- SQL querying
+- Data visualization
+- Insight generation
+- Business decision-making
+  
 ## Tools & Technologies
 
 * **Python** – Data cleaning and exploratory analysis
@@ -75,6 +113,6 @@ customer-churn-analysis
 ## Author
 
 **Vijay Saroj**
-B.Tech – Electronics and Communication Engineering
+B.Tech(ECE)
 IIT (ISM) Dhanbad
 
