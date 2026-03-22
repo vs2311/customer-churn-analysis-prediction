@@ -11,7 +11,7 @@ The goal is to help businesses reduce churn and improve customer retention using
 
 ---
 ---
- ### 🎯 Problem Statement
+ ## 🎯 Problem Statement
 ---
 Customer churn is a major challenge for telecom companies.
 This project aims to:
@@ -63,11 +63,12 @@ Key columns include:
  ---
 - High-risk customers contribute significantly to overall churn
 - Short-term contract users are more likely to leave
-- High monthly charges increase churn probability
+- High monthly charges increase churn probability 
+
   ---
   
   
-  ### 💡 Business Recommendations
+  ## 💡 Business Recommendations
   ---
   
 - Offer discounts or incentives for long-term contracts
@@ -77,7 +78,7 @@ Key columns include:
 
   ---
   
- ### 🧠 Why This Project Matters
+ ## 🧠 Why This Project Matters
 
 This project demonstrates a real-world data analysis workflow:
 
