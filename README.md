@@ -230,7 +230,10 @@ customer-churn-analysis/
 │
 └── README.md
 
+---
+
 ##🧠 Project Workflow
+
 
 Raw Data
    ↓
@@ -256,6 +259,8 @@ Customer Risk Segmentation
    ↓
 Business Recommendations
 
+---
+
 ##💼 Why This Project Matters
 
 This project demonstrates an end-to-end approach to solving a real-world customer churn problem using both Data Analytics and Machine Learning.
@@ -274,6 +279,8 @@ It covers:
 -Customer Risk Segmentation
 -Business Decision-Making
 
+
+---
 
 ## 👤Author
 
