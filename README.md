@@ -230,7 +230,52 @@ customer-churn-analysis/
 │
 └── README.md
 
-## Author
+##🧠 Project Workflow
+
+Raw Data
+   ↓
+Data Cleaning & Preprocessing
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL Analysis
+   ↓
+Power BI Dashboard
+   ↓
+Feature Engineering & Encoding
+   ↓
+Model Training
+   ↓
+Model Comparison
+   ↓
+Threshold Tuning
+   ↓
+Churn Probability Prediction
+   ↓
+Customer Risk Segmentation
+   ↓
+Business Recommendations
+
+##💼 Why This Project Matters
+
+This project demonstrates an end-to-end approach to solving a real-world customer churn problem using both Data Analytics and Machine Learning.
+
+It covers:
+
+-Data Cleaning
+-Exploratory Data Analysis
+-SQL Analysis
+-Data Visualization
+-Business Intelligence
+-Machine Learning
+-Model Evaluation
+-Threshold Optimization
+-Churn Probability Prediction
+-Customer Risk Segmentation
+-Business Decision-Making
+
+
+## 👤Author
 
 **Vijay Saroj**
 B.Tech(ECE)
